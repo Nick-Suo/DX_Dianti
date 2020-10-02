@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f6df328-a325-42a5-baf2-03b15a9dd74f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1bzLTC7G4IZyxw4uPMd5857gV4V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files (x86)\A_Cake\DX_Coke\监控草版\电梯人数监测项目ui" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="电梯人数监测项目ui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f6df328-a325-42a5-baf2-03b15a9dd74f" name="Default Changelist" comment="" />
+      <created>1589629981059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589629981059</updated>
+      <workItem from="1589630045839" duration="1441000" />
+      <workItem from="1589631526840" duration="1354000" />
+      <workItem from="1589632988169" duration="1232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1325" height="174" key="GridCell.Tab.0.bottom" timestamp="1589635282951">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589635282951" />
+    <state width="1325" height="174" key="GridCell.Tab.0.center" timestamp="1589635282950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589635282950" />
+    <state width="1325" height="174" key="GridCell.Tab.0.left" timestamp="1589635282948">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589635282948" />
+    <state width="1325" height="174" key="GridCell.Tab.0.right" timestamp="1589635282950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589635282950" />
+    <state width="1325" height="216" key="GridCell.Tab.1.bottom" timestamp="1589632881211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589632881211" />
+    <state width="1325" height="216" key="GridCell.Tab.1.center" timestamp="1589632881211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589632881211" />
+    <state width="1325" height="216" key="GridCell.Tab.1.left" timestamp="1589632881210">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589632881210" />
+    <state width="1325" height="216" key="GridCell.Tab.1.right" timestamp="1589632881211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589632881211" />
+    <state x="337" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1589630050527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589630050527" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589633393308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589633393308" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ui$Main_2.coverage" NAME="Main_2 Coverage Results" MODIFIED="1589633367242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+pyqt5 == 5.14.1
+opencv-python
+pymysql
+numpy
+pillow
+copy
+datetime
+time
+math
+operator
+functools
+io
